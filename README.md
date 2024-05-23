@@ -32,9 +32,8 @@ Delayed Trips: 2,292, with 'Weather Conditions' causing delays in 927 trips and 
 Approximately 27,000 trips (92% of successful journeys and 86% of all bookings) were on time.
 Disruptions were relatively infrequent, with 2,292 delayed trips and 1,880 cancellations.
 
-📈Recommendations:-
-Based on the analysis, the following recommendations are suggested:-
-traveller Enhance Popular Routes: Increase the frequency and capacity of trains on routes with high demand to serve passengers better.
+📈Recommendations Based on the analysis, the following recommendations are suggested:-
+Traveller Enhance Popular Routes: Increase the frequency and capacity of trains on routes with high demand to serve passengers better.
 
 Optimize Scheduling: Adjust schedules to align with peak travel periods and deploy additional staff during these times to improve service efficiency.
 Adjust Pricing Strategies: Reevaluate pricing on routes with high revenue potential to optimize profitability.
